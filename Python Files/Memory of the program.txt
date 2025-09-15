@@ -1,0 +1,101 @@
+0   LOAD 100 MAX 99            
+1   STOR 98 LOAD 100
+2   MIN 99 STOR 97
+3   LOAD 99 NOP
+4   LTHAN0 JUMP+(0:19) 13  
+5   LOAD 100 NOP    
+6   STOR 95 NOP
+7   LOAD 99 NOP
+8   STOR 100 NOP
+9   LOAD 95 NOP
+10  DIV 99 NOP
+11  STOR 99 NOP
+12  JUMP(0:19) 4 NOP  
+13  LOAD 98 NOP
+14  STOR 94 NOP  
+15  DIV 97 NOP      
+16  EQ0 JUMP+(0:19) 24     
+17  LOAD 96 NOP
+18  ADD 93 NOP  
+19  STOR 96 NOP
+20  MULT 94 NOP
+21  STOR 94 NOP
+22  DIV 97 NOP    
+23  JUMP(0:19) 16 NOP
+24  NOP NOP
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50 
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69   
+70   
+71  
+72  
+73   
+74   
+75   
+76   
+77   
+78  
+79   
+80   
+81   
+82   
+83   
+84   
+85   
+86   
+87  
+88   
+89    
+90
+91
+92
+93   1
+94   
+95   
+96   1
+97   
+98   
+99   24
+100  12 
