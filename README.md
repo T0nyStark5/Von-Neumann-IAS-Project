@@ -291,17 +291,14 @@ Assignment Objectives:
 
 ---
 
-# Author
+## Contributors
 
-### Shudharshan A.
+- R. Vaikunth (IMT2023566)
+- A. Shudharshan (IMT2023602)
+- S. Santhosh Kiran (IMT2023065)
 
-Electronics and Communication Engineering (ECE)
+---
 
-Interests:
+## Acknowledgements
 
-- Computer Architecture
-- Digital Design
-- VLSI Design
-- Processor Design
-- Hardware Modeling
-- FPGA Systems
+Developed as part of the EG-212 Computer Architecture course project on IAS Processor Design and Simulation.
