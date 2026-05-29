@@ -22,32 +22,34 @@ The processor follows the classical **Von Neumann architecture**, where instruct
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 ```text
-.
+Python Files/
+│
+├── __pycache__/
+│   ├── IMT2023566_assembler.cpython-311.pyc
+│   ├── IMT2023602_assembler.cpython-311.pyc
+│   └── assembler.cpython-311.pyc
 │
 ├── IMT2023602_Assembly_Code.txt
-│      IAS Assembly program
-│
-├── IMT2023602_assembler.py
-│      Converts IAS assembly into machine code
+│   └── IAS Assembly program for HCF and LCM computation
 │
 ├── IMT2023602_Processor.py
-│      Simulates the IAS processor
+│   └── IAS processor simulator implementation
+│
+├── IMT2023602_assembler.py
+│   └── Custom IAS assembler
 │
 ├── Memory of the program.txt
-│      Generated memory layout / machine code
+│   └── Generated machine code / memory contents
 │
 ├── IMT2023602_report.pdf
-│      Project report
+│   └── Project report and implementation details
 │
-├── Von_Neumann_Qn_Set.pdf
-│      Assignment specification
-│
-└── __pycache__/
+└── Von_Neumann_Qn_Set.pdf
+    └── Original assignment specification
 ```
-
 ---
 
 # Project Objective
